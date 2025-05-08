@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="text-hello" viewBox="0 0 300 100">
+    <text x="0" y="75" font-size="60" font-family="Arial, sans-serif" fill="black">
+      Hello
+    </text>
+  </symbol>
+  <symbol id="text-about" viewBox="0 0 300 100">
+    <text x="0" y="75" font-size="60" font-family="Arial, sans-serif" fill="black">
+      About
+    </text>
+  </symbol>
+</svg>
