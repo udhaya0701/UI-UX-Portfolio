@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="katakana-project" viewBox="0 0 300 100">
+    <text x="0" y="75" font-size="60" font-family="Arial, sans-serif">
+      Hello
+    </text>
+  </symbol>
+  <symbol id="katakana-profile" viewBox="0 0 300 100">
+    <text x="0" y="75" font-size="60" font-family="Arial, sans-serif">
+      About
+    </text>
+  </symbol>
+</svg>

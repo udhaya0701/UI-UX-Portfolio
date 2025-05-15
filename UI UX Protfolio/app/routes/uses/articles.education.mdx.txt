@@ -1,0 +1,9 @@
+export const frontmatter = {
+  title: "Bachelor of Technology in Computer Science",
+  abstract: "Graduated with distinction from XYZ University, where I explored software engineering, data structures, and interactive design.",
+  date: "2020-05-15",
+  featured: true,
+  banner: "/images/education-banner.jpg"
+}
+
+<!-- You can leave the rest empty or add custom body content if needed -->
